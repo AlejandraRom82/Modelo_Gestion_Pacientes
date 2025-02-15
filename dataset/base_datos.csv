@@ -1,0 +1,46 @@
+id,nombre,direccion,ciudad,celular,mail,edad,sintomas,categoria
+1234567890,Juan Perez,Calle 100 # 15-23, Bogota,310-1234567,juan.perez@mail.com,34,Dolor lumbar- rigidez cervical,Media
+1234567891,Ana Garcia,Carrera 7 # 20-45, Bogota,311-2345678,ana.garcia@mail.com,28,Lesion en tobillo- tension en hombros,Media
+1234567892,Carlos Rodriguez,Calle 45 # 10-30, Bogota,312-3456789,carlos.rodriguez@mail.com,45,Artrosis rodilla- dolor de espalda,Media
+1234567893,Marta Lopez,Carrera 9 # 13-80, Bogota,310-9876543,marta.lopez@mail.com,32,Estres muscular- dolor cervical,Media
+1234567894,Luis Fernandez,Calle 60 # 5-12, Bogota,311-8765432,luis.fernandez@mail.com,38,Lesion de rodilla- dolor lumbar,Media
+1234567895,Pedro Gonzalez,Carrera 13 # 7-24, Bogota,312-2345678,pedro.gonzalez@mail.com,26,Contractura muscular- dolor de cuello,Media
+1234567896,Patricia Romero,Calle 15 # 11-55, Bogota,310-1357924,patricia.romero@mail.com,40,Lesion de hombro- tension cervical,Media
+1234567897,Roberto Torres,Carrera 3 # 40-12, Bogota,312-5432167,roberto.torres@mail.com,29,Dolor de espalda baja- tendinitis,Media
+1234567898,Carmen Diaz,Calle 25 # 8-60, Bogota,311-6457893,carmen.diaz@mail.com,50,Dolor de rodilla- hombros adoloridos,Media
+1234567899,Francisco Martinez,Carrera 5 # 30-95, Bogota,310-6543210,francisco.martinez@mail.com,36,Lesion de codo- dolor cervical,Media
+1234567900,Beatriz Sanchez,Calle 40 # 19-23, Bogota,312-3216547,beatriz.sanchez@mail.com,30,Dolor en muneca- contractura en cuello,Media
+1234567901,Mario Lopez,Carrera 7 # 26-18, Bogota,310-9876543,mario.lopez@mail.com,39,Tension muscular- dolor lumbar,Media
+1234567902,Laura Fernandez,Calle 9 # 55-19, Bogota,311-2345679,laura.fernandez@mail.com,25,Dolor en cadera- hombro adolorido,Media
+1234567903,Raul Perez,Carrera 6 # 18-43, Bogota,312-3216547,raul.perez@mail.com,33,Lesion en tobillo- dolor en espalda,Media
+1234567904,Sofia Rodriguez,Calle 17 # 21-35, Bogota,310-5432167,sofia.rodriguez@mail.com,48,Dolor en cuello- problemas en rodilla,Media
+1234567905,Andres Martinez,Carrera 11 # 9-80, Bogota,311-8765432,andres.martinez@mail.com,51,Tension muscular- hombros tensos,Media
+1234567906,Juanita Diaz,Calle 3 # 24-78, Bogota,310-2345670,juanita.diaz@mail.com,29,Dolor en codo- dolor lumbar,Media
+1234567907,Manuel Lopez,Carrera 12 # 10-12, Bogota,312-8765430,manuel.lopez@mail.com,43,Lesion de rodilla- contractura cervical,Media
+1234567908,Liliana Hernandez,Calle 32 # 8-90, Bogota,311-6543211,liliana.hernandez@mail.com,50,Tension en hombros- rigidez lumbar,Media
+1234567909,Sergio Gonzalez,Carrera 8 # 14-68, Bogota,310-5432169,sergio.gonzalez@mail.com,27,Dolor de espalda- dolor muscular,Media
+1234567910,Teresa Lopez,Calle 10 # 7-56, Bogota,312-9876542,teresa.lopez@mail.com,34,Lesion de muneca- dolor cervical,Media
+1234567911,Alberto Romero,Carrera 18 # 4-12, Bogota,310-8765430,alberto.romero@mail.com,39,Dolor lumbar- tension muscular,Media
+1234567912,Adriana Torres,Calle 5 # 13-20, Bogota,311-2345671,adriana.torres@mail.com,31,Lesion en hombro- contractura,Media
+1234567913,Teresa Diaz,Carrera 7 # 5-45, Bogota,310-2345674,teresa.diaz@mail.com,38,Dolor de rodilla- rigidez en cuello,Media
+1234567914,Nicolas Garcia,Calle 11 # 9-60, Bogota,312-5432109,nicolas.garcia@mail.com,49,Dolor muscular- hombros tensos,Media
+1234567915,Andres Romero,Carrera 15 # 16-98, Bogota,310-9876545,andres.romero@mail.com,33,Lesion en tobillo- contractura,Media
+1234567916,Patricia Rodriguez,Calle 13 # 21-30, Bogota,312-3216543,patricia.rodriguez@mail.com,44,Dolor en rodilla- tension cervical,Media
+1234567917,Diego Martinez,Carrera 3 # 12-68, Bogota,311-6543212,diego.martinez@mail.com,41,Dolor lumbar- contractura cervical,Media
+1234567918,Sandra Gonzalez,Calle 23 # 17-34, Bogota,310-8765433,sandra.gonzalez@mail.com,28,Dolor en cuello- dolor de hombro,Alta
+1234567919,Gabriel Perez,Carrera 14 # 19-22, Bogota,312-2345678,gabriel.perez@mail.com,30,Lesion en rodilla- dolor muscular,Alta
+1234567920,Isabel Fernandez,Calle 21 # 12-45, Bogota,311-3216543,isabel.fernandez@mail.com,52,Dolor de espalda- rigidez en hombros,Alta
+1234567921,Guillermo Lopez,Carrera 4 # 15-89, Bogota,310-9876548,guillermo.lopez@mail.com,36,Tension cervical- contractura lumbar,Alta
+1234567922,Carolina Diaz,Calle 29 # 11-50, Bogota,312-5432160,carolina.diaz@mail.com,45,Lesion en codo- dolor en cuello,Alta
+1234567923,Ruben Gonzalez,Carrera 12 # 22-77, Bogota,310-2345670,ruben.gonzalez@mail.com,48,Dolor muscular- rigidez lumbar,Alta
+1234567924,Raquel Romero,Calle 17 # 18-90, Bogota,312-9876541,raquel.romero@mail.com,29,Dolor en espalda- contractura cervical,Alta
+1234567925,Marcos Perez,Carrera 2 # 24-63, Bogota,310-8765433,marcos.perez@mail.com,33,Dolor lumbar- contractura muscular,Alta
+1234567926,Marta Rodriguez,Calle 19 # 10-12, Bogota,311-2345671,marta.rodriguez@mail.com,38,Lesion en rodilla- dolor en hombro,Alta
+1234567927,Patricia Sanchez,Carrera 14 # 13-72, Bogota,310-3216548,patricia.sanchez@mail.com,29,Tension en cuello- dolor en hombros,Alta
+1234567928,Manuel Diaz,Calle 11 # 23-35, Bogota,312-9876541,manuel.diaz@mail.com,37,Dolor muscular- rigidez lumbar,Alta
+1234567929,Rosa Lopez,Carrera 7 # 9-11, Bogota,310-8765439,rosa.lopez@mail.com,34,Lesion en codo- contractura cervical,Alta
+1234567930,Luis Sanchez,Calle 8 # 16-45, Bogota,312-5432168,luis.sanchez@mail.com,40,Tension muscular- dolor lumbar,Baja
+1234567931,Mariana Torres,Carrera 13 # 8-56, Bogota,310-1234567,mariana.torres@mail.com,29,Dolor en rodilla- hombro adolorido,Baja
+1234567932,Eduardo Perez,Calle 3 # 20-95, Bogota,312-2345673,eduardo.perez@mail.com,33,Lesion en tobillo- dolor de cuello,Baja
+1234567933,Carmen Gonzalez,Carrera 5 # 16-72, Bogota,310-9876545,carmen.gonzalez@mail.com,29,Dolor en cadera- dolor de espalda,Baja
+1234567934,Alejandra Romero,Calle 18 # 6-23, Bogota,312-3216543,alejandra.romero@mail.com,34,Lesion en muneca- dolor muscular,Baja
