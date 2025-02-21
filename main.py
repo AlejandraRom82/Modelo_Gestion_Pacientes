@@ -47,14 +47,14 @@ def get_synonyms(word):
 
 #Creamos la aplicacion FastAPI, que sera el motor de nuestra API
 #Esto inicializa la API con un nombre y con una version
-app = FastAPI(title="Modelo de gestion de citas", version ="1.0.0")
+app = FastAPI(title="Modelo Inteligente Para La Clasificación De Pacientes Según La Patología", version ="1.0.0")
 
 #Ruta de inicio: Cuando alguien entra a la API sin especificar nada, vera un mensaje de bienvenida
 
 @app.get('/', tags=['Home'])
 def home():
     # Cuando entremos en el navegador veremos el mensaje de bienvenida
-    return HTMLResponse('<h1>Bienvenido a la API de Modelo de gestion de citas</h1>')
+    return HTMLResponse('<h1>Bienvenido al Modelo Inteligente Para La Clasificación De Pacientes Según La Patología</h1>')
 
 # Obteniendo la lista de los pacientes
 # Creamos una ruta para obtener todos los pacientes
@@ -68,7 +68,7 @@ def get_pacientes():
 
 
 # Ruta para obtener un paciente especifica segun su ID
-@app.get('/pacientes/{id}', tags=['pacientes'])
+@app.get('/pacientes/Cedula', tags=['pacientes'])
 def get_pacientes(id:int):
     #Buscamos en la lista de peliculas la que tenga el mismo ID
     return next((m for m in pacientes_list if m['id'] == id), {"detalle":"Paciente no encontrado"})
@@ -95,7 +95,7 @@ def chatbot(query: str):
 
 # Ruta para obtener pacientes por categoria especifica
 
-@app.get('/pacientes/by_categoria/', tags=['Pacientes'])
+@app.get('/pacientes/by_categoria/Alta-Media-Baja', tags=['Pacientes'])
 def get_pacientes_by_categoria(categoria: str):
     # Filtramos la lista de pacientes según la categoría ingresada
     return [m for m in pacientes_list if categoria.lower() in m['categoria'].lower()]
